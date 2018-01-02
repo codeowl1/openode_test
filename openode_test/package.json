@@ -1,0 +1,9 @@
+{
+  "name": "openode_test",
+  "version": "0.0.0",
+  "description": "openode_test",
+  "main": "app.js",
+  "author": {
+    "name": "Scotty"
+  }
+}
