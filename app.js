@@ -1,7 +1,8 @@
 var http = require('http');
 
 var port = 80,
-    host = 'regio.openode.io';
+    host = 'regio.fr.openode.io';
+    //host = 'localhost';
 
 http.createServer(function (req, res) {
 
