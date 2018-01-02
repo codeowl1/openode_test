@@ -1,6 +1,6 @@
 var http = require('http');
 
-var port = 80,
+var port = 3002,
     host = 'regio.fr.openode.io';
     //host = 'localhost';
 
